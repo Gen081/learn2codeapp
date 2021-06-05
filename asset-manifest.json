@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learn2codeapp/static/css/main.af7ef3bb.chunk.css",
+    "main.js": "/learn2codeapp/static/js/main.5b452a06.chunk.js",
+    "main.js.map": "/learn2codeapp/static/js/main.5b452a06.chunk.js.map",
+    "runtime-main.js": "/learn2codeapp/static/js/runtime-main.fb3b5644.js",
+    "runtime-main.js.map": "/learn2codeapp/static/js/runtime-main.fb3b5644.js.map",
+    "static/js/2.8092412d.chunk.js": "/learn2codeapp/static/js/2.8092412d.chunk.js",
+    "static/js/2.8092412d.chunk.js.map": "/learn2codeapp/static/js/2.8092412d.chunk.js.map",
+    "static/js/3.e9111435.chunk.js": "/learn2codeapp/static/js/3.e9111435.chunk.js",
+    "static/js/3.e9111435.chunk.js.map": "/learn2codeapp/static/js/3.e9111435.chunk.js.map",
+    "index.html": "/learn2codeapp/index.html",
+    "static/css/main.af7ef3bb.chunk.css.map": "/learn2codeapp/static/css/main.af7ef3bb.chunk.css.map",
+    "static/js/2.8092412d.chunk.js.LICENSE.txt": "/learn2codeapp/static/js/2.8092412d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/learn2codeapp/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3b5644.js",
+    "static/js/2.8092412d.chunk.js",
+    "static/css/main.af7ef3bb.chunk.css",
+    "static/js/main.5b452a06.chunk.js"
+  ]
+}
